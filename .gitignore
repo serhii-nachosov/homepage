@@ -23,3 +23,19 @@
 
 # Mongo Explorer plugin:
 .idea/mongoSettings.xml
+*.iml
+*.xml
+*.xml
+*.xml
+*.xml
+.idea/homepage.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/homepage.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
